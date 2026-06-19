@@ -561,7 +561,7 @@ export default function LandingPage() {
             </div>
           </div>
           <div className="border-t border-slate-800/50 pt-6 flex items-center justify-between">
-            <p className="text-[11px] text-slate-600">2026 Apex AI. All rights reserved.</p>
+            <p className="text-[11px] text-slate-600">{new Date().getFullYear()} Apex AI. All rights reserved.</p>
             <div className="flex items-center gap-1"><Globe size={12} className="text-slate-600" /><Shield size={12} className="text-slate-600" /></div>
           </div>
         </div>

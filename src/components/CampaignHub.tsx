@@ -165,7 +165,7 @@ export default function CampaignHub() {
             <div className="space-y-4">
               <div>
                 <label className="text-xs text-theme-tertiary font-medium mb-1.5 block">Campaign Name</label>
-                <input value={formData.name} onChange={e => setFormData(f => ({ ...f, name: e.target.value }))} className="w-full h-9 px-3 text-sm bg-theme-elevated border border-theme-muted rounded-lg text-theme-primary focus:outline-none focus:border-blue-500/50" placeholder="e.g. Summer Launch 2026" />
+                <input value={formData.name} onChange={e => setFormData(f => ({ ...f, name: e.target.value }))} className="w-full h-9 px-3 text-sm bg-theme-elevated border border-theme-muted rounded-lg text-theme-primary focus:outline-none focus:border-blue-500/50" placeholder="e.g. Summer Launch" />
               </div>
               <div>
                 <label className="text-xs text-theme-tertiary font-medium mb-1.5 block">Description</label>

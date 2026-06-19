@@ -2,7 +2,7 @@
 
 ### The AI-Powered Marketing Command Center for Modern Brands
 
-![Apex AI Banner](https://via.placeholder.com/1200x400/0f172a/3b82f6?text=Apex+AI+-+Build+Brands+That+Dominate)
+![Apex AI Banner](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=400&fit=crop&auto=format)
 
 <p align="center">
   <strong>One platform. Six AI engines. Infinite marketing possibilities.</strong>
@@ -290,7 +290,7 @@ Apex AI is raising a **$4M Seed Round** to accelerate product development and go
 - 20% Product (design, user research, new modules)
 - 10% Operations (legal, compliance, infrastructure)
 
-**Contact:** invest@apex-ai.io
+**Contact:** founders@yourcompany.com
 
 ---
 
@@ -323,10 +323,10 @@ Apache 2.0 License — see [LICENSE](LICENSE) for details.
 </p>
 
 <p align="center">
-  <a href="https://apex-ai.io">Website</a> •
-  <a href="https://docs.apex-ai.io">Documentation</a> •
-  <a href="https://twitter.com/apex_ai">Twitter</a> •
-  <a href="https://linkedin.com/company/apex-ai">LinkedIn</a>
+  <a href="#">Website</a> •
+  <a href="#">Documentation</a> •
+  <a href="#">Twitter</a> •
+  <a href="#">LinkedIn</a>
 </p>
 
 <p align="center">

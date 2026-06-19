@@ -15,7 +15,7 @@ const viewDescriptions: Record<View, string> = {
 };
 
 const notifications = [
-  { id: 1, title: 'Campaign launched', desc: '"Summer Collection 2026" is now live', time: '2m ago', icon: <TrendingUp size={14} className="text-blue-400" />, read: false },
+  { id: 1, title: 'Campaign launched', desc: '"Summer Collection" is now live', time: '2m ago', icon: <TrendingUp size={14} className="text-blue-400" />, read: false },
   { id: 2, title: 'AI suggestion', desc: 'New tagline variants generated for review', time: '15m ago', icon: <Sparkles size={14} className="text-cyan-400" />, read: false },
   { id: 3, title: 'Budget alert', desc: 'Google Ads at 85% of monthly budget', time: '1h ago', icon: <AlertCircle size={14} className="text-amber-400" />, read: true },
   { id: 4, title: 'Content published', desc: '5 Instagram posts scheduled successfully', time: '2h ago', icon: <Check size={14} className="text-emerald-400" />, read: true },
@@ -106,7 +106,7 @@ export default function Header({ currentView, onSignOut }: { currentView: View; 
                   <div className="w-9 h-9 rounded-lg bg-gradient-to-br from-blue-500 to-cyan-400 flex items-center justify-center text-white text-sm font-bold"><User size={16} /></div>
                   <div>
                     <p className="text-sm font-bold text-theme-primary">Marketing Team</p>
-                    <p className="text-[11px] text-theme-muted">team@company.com</p>
+                    <p className="text-[11px] text-theme-muted">marketing@acme.co</p>
                   </div>
                 </div>
               </div>

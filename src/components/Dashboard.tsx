@@ -30,7 +30,7 @@ const channelData = [
 ];
 
 const recentActivity = [
-  { action: 'Campaign launched', detail: '"Summer Collection 2026" is now live', time: '2m ago', icon: <Zap size={14} className="text-blue-400" /> },
+  { action: 'Campaign launched', detail: '"Summer Sale" is now live', time: '2m ago', icon: <Zap size={14} className="text-blue-400" /> },
   { action: 'Content published', detail: '5 Instagram posts scheduled', time: '15m ago', icon: <Globe size={14} className="text-emerald-400" /> },
   { action: 'Budget alert', detail: 'Google Ads at 85% of monthly budget', time: '1h ago', icon: <DollarSign size={14} className="text-amber-400" /> },
   { action: 'AI suggestion', detail: 'New tagline variants generated', time: '2h ago', icon: <Sparkles size={14} className="text-cyan-400" /> },
